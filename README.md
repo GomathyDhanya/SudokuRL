@@ -1,4 +1,5 @@
 REINFORCEMENT LEARNING BASED SOLUTION FOR SOLVING A SUDOKU
+
 In this notebook we aim to solve a sudoku puzzle using a deep Q-Learning agent who finds an optimal position and the number to place in the position
 
 Reward Shaping:
